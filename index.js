@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 // Adding An Event Listener To All The Drums.
 
